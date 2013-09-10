@@ -11,7 +11,6 @@ Landscaping With PHP Tools
 * [Komodo Edit](http://www.activestate.com/komodo-edit)
 * [PsPad](http://www.pspad.com/)
 * [NotePad++](http://notepad-plus-plus.org/)
-
 * [UltraEdit](http://www.ultraedit.com/)
 * [Sublime-Text](http://www.sublimetext.com/)
 
@@ -23,7 +22,6 @@ Landscaping With PHP Tools
 * [Eclipse](http://www.eclipse.org/)
 * [Netbeans](https://netbeans.org/)
 * [Aptana](http://www.aptana.com/)
-
 * [Zend Studio](http://www.zend.com/products/studio/)
 * [Komodo IDE](http://www.activestate.com/komodo-ide)
 * [PHPStorm](http://www.jetbrains.com/phpstorm/)
@@ -131,7 +129,7 @@ Landscaping With PHP Tools
 * [Pecl](http://pecl.php.net/)
 
 
-### Template Engine (http://en.wikipedia.org/wiki/Comparison_of_web_template_engines)
+### Template Engine 
 
 * [Smarty](http://www.smarty.net/)
 * [Twig](http://twig.sensiolabs.org/)
@@ -141,10 +139,10 @@ Landscaping With PHP Tools
 
 ## Packages  
 
-* [composer packages](https://packagist.org/)	 9/10 總數:15695
-* [php classes Repository](http://www.phpclasses.org/) 	9/10 總數:14331
-* [pecl packages](http://pecl.php.net/packages.php)  	9/10 總數:306
-* [pear packages](http://pear.php.net/packages.php)  	9/10 總數:595
+* [composer packages](https://packagist.org/)	- 9/10 總數:15695
+* [php classes Repository](http://www.phpclasses.org/) -	9/10 總數:14331
+* [pecl packages](http://pecl.php.net/packages.php)  -	9/10 總數:306
+* [pear packages](http://pear.php.net/packages.php)  -	9/10 總數:595
 
 -----
 
@@ -248,6 +246,22 @@ Landscaping With PHP Tools
 
 * [Amazon Web Service](http://aws.amazon.com/)
 * [Windwos Azure VM](http://www.windowsazure.com/)
+* [Amazon]()
+* [RackSpace]()
+* [Joyent]()
+* [GoGrid]()
+* [OpSource]()
+* [IBM]()
+* [中華電信](http://hicloud.hinet.net/userportal.html)
+* [遠傳](http://www.fetnet.net/cs/Satellite/EBU/ebCloudserviceintro)
+* [AT&T]()
+* [Verizon]()
+* [Orange](http://www.orange-business.com/en/mnc2/themes/cloud-computing/index.html)
+* [BT](http://business.bt.com/it-solutions/it-services/data-centre-services/)
+* [YoYo友友](http://www.yoyosys.com/cn/product/netvm)
+* [阿里雲](http://phpwind.aliyun.com/)
+* [CloudEx](http://www.cloudex.cn/cloud_server/)
+
 
 ### PaaS
 
@@ -260,6 +274,22 @@ Landscaping With PHP Tools
 * [CloudAccess](http://www.cloudaccess.net/) - for Joomla!CMS
 * [Acquia Cloud](https://www.acquia.com/) - for Drupal CMS
 * [Tribeca Cloud](https://tribecacloud.com) - for many CMSes
+* [Amazon]()
+* [Salesforce]()
+* [RedHat]()
+* [phpfog]()
+* [cloudControl]()
+* [AppHarbor]()
+* [VMware]()
+* [Joyent]()
+* [OpSource]()
+* [Engine Yard]()
+* [DotCloud]()
+* [IBM]()
+* [AT&T]()
+* [阿里雲]()
+
+[refer](http://www.tts.bz/archives/667)
 
 ### VPS
 
